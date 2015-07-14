@@ -1,4 +1,4 @@
-Educational Video Lectures Point Of Interest
+Educational Video Lectures
 --------------------------------------------
 
 Η εμφάνιση των Μαζικών Ανοικτών Διαδικτυακών Μαθημάτων (MOOC) καθώς και η αύξηση
