@@ -18,13 +18,11 @@ Educational Video Lectures Point Of Interest
 βίντεο (transcripts), δηλαδή των κειμένων των ομιλητών, με εφαρμογή στον
 μεγαλύτερο παγκοσμίως πάροχο βίντεο που ειναι το YouTube.
 
-![](<read.me.eduvidlec.jpg>)
-
- 
+![](<https://github.com/ioa-maellak/EducationalVideoLectures/blob/master/read.me.eduvidlec.jpg?raw=true>)
 
 ### Δημιουργήσαμε για το σκοπό αυτό και εμπλουτίζουμε συνεχώς τα παρακατω :
 
--   **search\_videos.php **
+-   **search\_videos.php**
 
 *αναζήτηση εκαιδευτικών βίντεο βάση λέξεων κλειδιών κι αποθηκευσή των videoId
 τους σε αρχείο κειμένου.*
